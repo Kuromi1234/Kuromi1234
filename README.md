@@ -1,78 +1,108 @@
-<h1 align="center">🚀 Arjun Nath</h1>
-<h3 align="center">Crafting Scalable Tech, Building Impactful Systems</h3>
+<h1 align="center">👋 Hey, I'm Arjun Nath</h1>
+<h3 align="center">System Engineer(working tough and hard to transition to software Engineer) | Systems Thinker | Always Learning</h3>
+
+
+---
+
+## 🧭 About Me
+
+I'm a backend-focused developer who genuinely enjoys solving real-world problems with technology.
+
+My philosophy is simple: **Write clean code, think in systems, and never stop learning**.
+
+- 🏗️ **Current Project**: `BERU` – an internal IT Asset Management System designed to simplify asset lifecycle workflows.
+- 📍 **Current Focus Areas**: Backend architecture, system design, writing testable & scalable code, exploring AI integration.
+- 📚 **Learning Goals**: 
+  - AI (LLMs, agents, embeddings)
+  - Clean code & design patterns
+  - Distributed systems (queues, caching, message brokers)
+- 🤝 **Looking to Collaborate On**: Tools with real-world utility, internal platforms, AI-backed infra tools, open-source backend services.
+- 🎯 **2025 Vision**: Become one of GitHub’s most consistent and disciplined backend contributors, while growing into a strong product thinker.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Core Backend
+
+- **Languages**: JavaScript (ES6+), TypeScript (learning), Python (intermediate)
+- **Frameworks**: Node.js, Express.js, Next.js (API Routes), RESTful APIs
+- **Databases**: MongoDB, MySQL (intermediate)
+- **Authentication**: JWT, OTP flows, Cookie-based Auth, Session Auth
+- **Testing**:Postman (API test collections)
+
+---
+
+### 🧱 Frontend (Working Knowledge)
+
+- **Frameworks**: React.js, Vite, TailwindCSS, Framer Motion 
+- **Design**: Figma (UI ideas), Responsive UI, Glassmorphism, Dark/Light Modes
+
+---
+
+### 🧰 DevOps & Tools
+
+- **Version Control**: Git, GitHub Actions (CI/CD), GitLab (basic)
+- **Hosting/Cloud**: Render, Vercel, Railway, Netlify
+- **Package Managers**: npm, yarn
+- **Project Tools**: VS Code, Postman 
+
+---
+
+### 🛡️ Best Practices I Follow
+
+- Write **modular, testable, and readable code**
+- Prioritize **meaningful commits** and clean PRs
+- Keep architecture **simple first, scalable next**
+- Always document the **why**, not just the what
+- Follow **Semantic Versioning** & API versioning
+
+---
+
+## 🚧 Projects (Real, Built & Growing)
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [`BERU`](https://github.com/Kuromi1234/Beru) | IT Asset Management system for internal use in organizations to track assignment, damage, returns & inventory lifecycle. | Node.js, Express.js, MongoDB, React, TailwindCSS |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kuromi1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuromi1234&show_icons=true&theme=default&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuromi1234&theme=default&hide_border=true" width="47%" />
 </p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 🌐 Connect With Me
 
-> A visionary who is grinding for tech excellence and turning complex systems into simple solutions.  
-> Currently building powerful internal tools and diving deep into scalable architectures — one clean commit at a time.
-
-- 🔧 Currently shipping: `BERU` — a powerful Asset Management System for internal ops "Solo Development"
-- 🧠 Exploring: AI | Distributed Systems | Clean Architecture  
-- 🛠️ Stronghold in: Backend Engineering, REST APIs, Infrastructure  
-- 🎯 2025 Goal: Contribute to world-class open source, every single week  
-- 🧩 Belief: Systems should be elegant, maintainable, and frictionless.
-
----
-
-## 💡 Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🚧 Flagship Projects
-
-| 🚀 Project | 🌐 Description | ⚙️ Stack |
-|-----------|----------------|----------|
-| [`BERU`](https://github.com/Kuromi1234/Beru) | Enterprise-grade IT Asset Management System designed for internal ops efficiency and lifecycle tracking. | Node.js, Express.js, MongoDB, React.js |
-
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuromi1234&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuromi1234&theme=tokyonight&hide_border=true" width="47%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuromi1234&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
-
-## 🌐 Let’s Network
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/arjun-nath-9b436823a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ArjunNath-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Arjun%20Nath-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-arjun__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Arjun%20Nath-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 Vision Forward
+## 💭 Personal Philosophy
 
-> I don’t just build projects — I architect systems that scale.  
-> Let’s redefine what’s possible in tech, one repo at a time.
+> "You don’t rise to the level of your goals, you fall to the level of your systems." — James Clear
+
+- I believe **discipline > motivation**.
+- I try to show up every day, even in silence.
+- I aim to grow not just as a developer, but as a problem-solver, communicator, and teammate.
+
+---
 
 <p align="center">
-  Made with ⚡ by <b>Arjun Nath</b>
+  Built with focus. Maintained with purpose. 🚀 <br/><br/>
+  <b>— Arjun Nath</b>
 </p>
