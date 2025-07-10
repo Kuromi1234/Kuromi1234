@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hey, I'm Arjun Nath</h1>
 <h3 align="center">System Engineer (working tough and hard to transition into Software Engineer) | Systems Thinker | Always Learning</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kuromi1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🧭 About Me
@@ -109,7 +104,7 @@ My philosophy is simple: **Write clean code, think in systems, and never stop le
   <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-arjun__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/" target="_blank">
+  <a href="[https://youtube.com/](https://www.youtube.com/@arjunnath1575)" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Arjun%20Nath-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
