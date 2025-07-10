@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hey, I'm Arjun Nath</h1>
-<h3 align="center">System Engineer(working tough and hard to transition to software Engineer) | Systems Thinker | Always Learning</h3>
+<h3 align="center">System Engineer (working tough and hard to transition into Software Engineer) | Systems Thinker | Always Learning</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kuromi1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -17,7 +20,7 @@ My philosophy is simple: **Write clean code, think in systems, and never stop le
   - Clean code & design patterns
   - Distributed systems (queues, caching, message brokers)
 - 🤝 **Looking to Collaborate On**: Tools with real-world utility, internal platforms, AI-backed infra tools, open-source backend services.
-- 🎯 **2025 Vision**: Become one of GitHub’s most consistent and disciplined backend contributors, while growing into a strong product thinker.
+- 🎯 **2025 Vision**: Become one of GitHub’s most consistent and disciplined backend contributors, while growing into a strong product thinker and AI backed Engineer for rapid shipment 
 
 ---
 
@@ -25,27 +28,48 @@ My philosophy is simple: **Write clean code, think in systems, and never stop le
 
 ### 🧠 Core Backend
 
-- **Languages**: JavaScript (ES6+), TypeScript (learning), Python (intermediate)
-- **Frameworks**: Node.js, Express.js, Next.js (API Routes), RESTful APIs
-- **Databases**: MongoDB, MySQL (intermediate)
-- **Authentication**: JWT, OTP flows, Cookie-based Auth, Session Auth
-- **Testing**:Postman (API test collections)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 ### 🧱 Frontend (Working Knowledge)
 
-- **Frameworks**: React.js, Vite, TailwindCSS, Framer Motion 
-- **Design**: Figma (UI ideas), Responsive UI, Glassmorphism, Dark/Light Modes
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
 ### 🧰 DevOps & Tools
 
-- **Version Control**: Git, GitHub Actions (CI/CD), GitLab (basic)
-- **Hosting/Cloud**: Render, Vercel, Railway, Netlify
-- **Package Managers**: npm, yarn
-- **Project Tools**: VS Code, Postman 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
 
 ---
 
