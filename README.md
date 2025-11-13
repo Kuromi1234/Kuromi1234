@@ -8,7 +8,7 @@ I'm a backend-focused developer who genuinely enjoys solving real-world problems
 
 My philosophy is simple: **Write clean code, think in systems, and never stop learning**.
 
-- 🏗️ **Current Project**: `BERU` – an internal IT Asset Management System designed to simplify asset lifecycle workflows.
+- 🏗️ **Current Project**: `NEXORA` – AI Agent orchestration platform for autonomous bookings.
 - 📍 **Current Focus Areas**: Backend architecture, system design, writing testable & scalable code, exploring AI integration.
 - 📚 **Learning Goals**: 
   - AI (LLMs, agents, embeddings)
@@ -83,6 +83,7 @@ My philosophy is simple: **Write clean code, think in systems, and never stop le
 | Project | Description | Tech |
 |--------|-------------|------|
 | [`BERU`](https://github.com/Kuromi1234/Beru) | IT Asset Management system for internal use in organizations to track assignment, damage, returns & inventory lifecycle. | Node.js, Express.js, MongoDB, React, TailwindCSS |
+| [`NEXORA`](https://github.com/Kuromi1234/NEXORA) | AI Agent orchestration platform for autonomous bookings. | MERN , OPENAI , DOCKER , MCP SERVER , Redis + Chroma , WebSocket , AES encryption, Vault, JWT RBAC, Input Sanitization |
 
 ---
 
